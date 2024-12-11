@@ -20729,3 +20729,20 @@
 2024-12-11 23:03:27 INFO  TicketSystemCLI - Current ticket availability: 1
 2024-12-11 23:03:28 INFO  TicketSystemCLI - Current ticket availability: 1
 2024-12-11 23:03:29 INFO  TicketSystemCLI - Current ticket availability: 1
+2024-12-11 23:17:46 INFO  TicketSystemCLI - Starting Ticket System CLI application...
+2024-12-11 23:17:46 INFO  TicketSystemCLI - Configuration loaded from file.
+2024-12-11 23:17:56 INFO  TicketSystemCLI - Starting system...
+2024-12-11 23:17:56 INFO  TicketSystemCLI - System started.
+2024-12-11 23:17:56 INFO  Customer - Customer purchased a ticket. Remaining tickets: 4
+2024-12-11 23:17:56 INFO  Customer - Customer purchased a ticket. Remaining tickets: 1
+2024-12-11 23:17:56 INFO  Customer - Customer purchased a ticket. Remaining tickets: 2
+2024-12-11 23:17:56 INFO  TicketSystemCLI - Current ticket availability: 4
+2024-12-11 23:17:56 INFO  Customer - Customer purchased a ticket. Remaining tickets: 3
+2024-12-11 23:17:56 INFO  Vendor - Vendor added a ticket. Checking availability...
+2024-12-11 23:17:56 INFO  Customer - Customer purchased a ticket. Remaining tickets: 0
+2024-12-11 23:17:57 INFO  TicketSystemCLI - Current ticket availability: 1
+2024-12-11 23:17:58 INFO  TicketSystemCLI - Current ticket availability: 1
+2024-12-11 23:17:59 INFO  TicketSystemCLI - Current ticket availability: 1
+2024-12-11 23:18:00 INFO  TicketSystemCLI - Current ticket availability: 1
+2024-12-11 23:18:01 INFO  TicketSystemCLI - Current ticket availability: 1
+2024-12-11 23:18:02 INFO  TicketSystemCLI - Current ticket availability: 1

@@ -20611,3 +20611,121 @@
 2024-12-11 22:40:59 INFO  TicketSystemCLI - Configuration loaded from file.
 2024-12-11 22:46:20 INFO  TicketSystemCLI - Starting Ticket System CLI application...
 2024-12-11 22:46:20 INFO  TicketSystemCLI - Configuration loaded from file.
+2024-12-11 23:01:04 INFO  TicketSystemCLI - Starting Ticket System CLI application...
+2024-12-11 23:01:04 INFO  TicketSystemCLI - Configuration loaded from file.
+2024-12-11 23:01:10 INFO  TicketSystemCLI - Starting system...
+2024-12-11 23:01:10 INFO  Customer - Customer purchased a ticket. Remaining tickets: 9
+2024-12-11 23:01:10 INFO  Customer - Customer purchased a ticket. Remaining tickets: 8
+2024-12-11 23:01:10 INFO  Customer - Customer purchased a ticket. Remaining tickets: 7
+2024-12-11 23:01:10 INFO  TicketSystemCLI - System started.
+2024-12-11 23:01:10 INFO  Customer - Customer purchased a ticket. Remaining tickets: 5
+2024-12-11 23:01:10 INFO  TicketSystemCLI - Current ticket availability: 7
+2024-12-11 23:01:10 INFO  Customer - Customer purchased a ticket. Remaining tickets: 6
+2024-12-11 23:01:11 INFO  TicketSystemCLI - Current ticket availability: 5
+2024-12-11 23:01:12 INFO  TicketSystemCLI - Current ticket availability: 5
+2024-12-11 23:01:13 INFO  TicketSystemCLI - Current ticket availability: 5
+2024-12-11 23:01:14 INFO  TicketSystemCLI - Current ticket availability: 5
+2024-12-11 23:01:15 INFO  TicketSystemCLI - Current ticket availability: 5
+2024-12-11 23:01:16 INFO  TicketSystemCLI - Current ticket availability: 5
+2024-12-11 23:01:17 INFO  TicketSystemCLI - Current ticket availability: 5
+2024-12-11 23:01:18 INFO  TicketSystemCLI - Current ticket availability: 5
+2024-12-11 23:01:19 INFO  TicketSystemCLI - Current ticket availability: 5
+2024-12-11 23:01:20 INFO  TicketSystemCLI - Current ticket availability: 5
+2024-12-11 23:01:21 INFO  TicketSystemCLI - Current ticket availability: 5
+2024-12-11 23:01:22 INFO  TicketSystemCLI - Current ticket availability: 5
+2024-12-11 23:01:23 INFO  TicketSystemCLI - Current ticket availability: 5
+2024-12-11 23:01:24 INFO  TicketSystemCLI - Current ticket availability: 5
+2024-12-11 23:01:25 INFO  TicketSystemCLI - Current ticket availability: 5
+2024-12-11 23:01:26 INFO  TicketSystemCLI - Current ticket availability: 5
+2024-12-11 23:01:27 INFO  TicketSystemCLI - Current ticket availability: 5
+2024-12-11 23:01:28 INFO  TicketSystemCLI - Current ticket availability: 5
+2024-12-11 23:01:29 INFO  TicketSystemCLI - Current ticket availability: 5
+2024-12-11 23:01:30 INFO  TicketSystemCLI - Current ticket availability: 5
+2024-12-11 23:01:31 INFO  TicketSystemCLI - Current ticket availability: 5
+2024-12-11 23:01:32 INFO  TicketSystemCLI - Current ticket availability: 5
+2024-12-11 23:01:33 INFO  TicketSystemCLI - Current ticket availability: 5
+2024-12-11 23:01:34 INFO  TicketSystemCLI - Current ticket availability: 5
+2024-12-11 23:01:35 INFO  TicketSystemCLI - Current ticket availability: 5
+2024-12-11 23:01:36 INFO  TicketSystemCLI - Current ticket availability: 5
+2024-12-11 23:01:37 INFO  TicketSystemCLI - Current ticket availability: 5
+2024-12-11 23:01:38 INFO  TicketSystemCLI - Current ticket availability: 5
+2024-12-11 23:01:39 INFO  TicketSystemCLI - Current ticket availability: 5
+2024-12-11 23:01:40 INFO  TicketSystemCLI - Current ticket availability: 5
+2024-12-11 23:01:41 INFO  TicketSystemCLI - Current ticket availability: 5
+2024-12-11 23:01:42 INFO  TicketSystemCLI - Current ticket availability: 5
+2024-12-11 23:01:43 INFO  TicketSystemCLI - Current ticket availability: 5
+2024-12-11 23:01:44 INFO  TicketSystemCLI - Current ticket availability: 5
+2024-12-11 23:01:45 INFO  TicketSystemCLI - Current ticket availability: 5
+2024-12-11 23:01:46 INFO  TicketSystemCLI - Current ticket availability: 5
+2024-12-11 23:01:47 INFO  TicketSystemCLI - Current ticket availability: 5
+2024-12-11 23:01:48 INFO  TicketSystemCLI - Current ticket availability: 5
+2024-12-11 23:01:49 INFO  TicketSystemCLI - Current ticket availability: 5
+2024-12-11 23:01:50 INFO  TicketSystemCLI - Current ticket availability: 5
+2024-12-11 23:01:51 INFO  TicketSystemCLI - Current ticket availability: 5
+2024-12-11 23:02:09 INFO  TicketSystemCLI - Starting Ticket System CLI application...
+2024-12-11 23:02:09 INFO  TicketSystemCLI - Configuration loaded from file.
+2024-12-11 23:02:36 INFO  TicketSystemCLI - Configuration saved to file.
+2024-12-11 23:02:36 INFO  TicketSystemCLI - Configuration saved.
+2024-12-11 23:02:39 INFO  TicketSystemCLI - Starting system...
+2024-12-11 23:02:39 INFO  TicketSystemCLI - System started.
+2024-12-11 23:02:39 INFO  Customer - Customer purchased a ticket. Remaining tickets: 4
+2024-12-11 23:02:39 INFO  Customer - Customer purchased a ticket. Remaining tickets: 1
+2024-12-11 23:02:39 INFO  Customer - Customer purchased a ticket. Remaining tickets: 2
+2024-12-11 23:02:39 INFO  TicketSystemCLI - Current ticket availability: 4
+2024-12-11 23:02:39 INFO  Customer - Customer purchased a ticket. Remaining tickets: 3
+2024-12-11 23:02:39 INFO  Vendor - Vendor added a ticket. Checking availability...
+2024-12-11 23:02:39 INFO  Customer - Customer purchased a ticket. Remaining tickets: 0
+2024-12-11 23:02:40 INFO  TicketSystemCLI - Current ticket availability: 1
+2024-12-11 23:02:41 INFO  TicketSystemCLI - Current ticket availability: 1
+2024-12-11 23:02:42 INFO  TicketSystemCLI - Current ticket availability: 1
+2024-12-11 23:02:43 INFO  TicketSystemCLI - Current ticket availability: 1
+2024-12-11 23:02:44 INFO  TicketSystemCLI - Current ticket availability: 1
+2024-12-11 23:02:45 INFO  TicketSystemCLI - Current ticket availability: 1
+2024-12-11 23:02:46 INFO  TicketSystemCLI - Current ticket availability: 1
+2024-12-11 23:02:47 INFO  TicketSystemCLI - Current ticket availability: 1
+2024-12-11 23:02:48 INFO  TicketSystemCLI - Current ticket availability: 1
+2024-12-11 23:02:49 INFO  TicketSystemCLI - Current ticket availability: 1
+2024-12-11 23:02:50 INFO  TicketSystemCLI - Current ticket availability: 1
+2024-12-11 23:02:51 INFO  TicketSystemCLI - Current ticket availability: 1
+2024-12-11 23:02:52 INFO  TicketSystemCLI - Current ticket availability: 1
+2024-12-11 23:02:53 INFO  TicketSystemCLI - Current ticket availability: 1
+2024-12-11 23:02:54 INFO  TicketSystemCLI - Current ticket availability: 1
+2024-12-11 23:02:55 INFO  TicketSystemCLI - Current ticket availability: 1
+2024-12-11 23:02:56 INFO  TicketSystemCLI - Current ticket availability: 1
+2024-12-11 23:02:57 INFO  TicketSystemCLI - Current ticket availability: 1
+2024-12-11 23:02:58 INFO  TicketSystemCLI - Current ticket availability: 1
+2024-12-11 23:02:59 INFO  TicketSystemCLI - Current ticket availability: 1
+2024-12-11 23:03:00 INFO  TicketSystemCLI - Current ticket availability: 1
+2024-12-11 23:03:01 INFO  TicketSystemCLI - Current ticket availability: 1
+2024-12-11 23:03:02 INFO  TicketSystemCLI - Current ticket availability: 1
+2024-12-11 23:03:03 INFO  TicketSystemCLI - Current ticket availability: 1
+2024-12-11 23:03:04 INFO  TicketSystemCLI - Current ticket availability: 1
+2024-12-11 23:03:05 INFO  TicketSystemCLI - Current ticket availability: 1
+2024-12-11 23:03:06 INFO  TicketSystemCLI - Current ticket availability: 1
+2024-12-11 23:03:07 INFO  TicketSystemCLI - Current ticket availability: 1
+2024-12-11 23:03:08 INFO  TicketSystemCLI - Current ticket availability: 1
+2024-12-11 23:03:09 INFO  TicketSystemCLI - Current ticket availability: 1
+2024-12-11 23:03:10 INFO  TicketSystemCLI - Current ticket availability: 1
+2024-12-11 23:03:11 INFO  TicketSystemCLI - Current ticket availability: 1
+2024-12-11 23:03:12 INFO  TicketSystemCLI - Current ticket availability: 1
+2024-12-11 23:03:13 INFO  TicketSystemCLI - Current ticket availability: 1
+2024-12-11 23:03:14 INFO  TicketSystemCLI - Current ticket availability: 1
+2024-12-11 23:03:15 INFO  TicketSystemCLI - Current ticket availability: 1
+2024-12-11 23:03:16 INFO  TicketSystemCLI - Current ticket availability: 1
+2024-12-11 23:03:17 INFO  TicketSystemCLI - Current ticket availability: 1
+2024-12-11 23:03:21 INFO  TicketSystemCLI - Starting Ticket System CLI application...
+2024-12-11 23:03:21 INFO  TicketSystemCLI - Configuration loaded from file.
+2024-12-11 23:03:24 INFO  TicketSystemCLI - Starting system...
+2024-12-11 23:03:24 INFO  TicketSystemCLI - System started.
+2024-12-11 23:03:24 INFO  Customer - Customer purchased a ticket. Remaining tickets: 4
+2024-12-11 23:03:24 INFO  TicketSystemCLI - Current ticket availability: 4
+2024-12-11 23:03:24 INFO  Customer - Customer purchased a ticket. Remaining tickets: 2
+2024-12-11 23:03:24 INFO  Customer - Customer purchased a ticket. Remaining tickets: 1
+2024-12-11 23:03:24 INFO  Customer - Customer purchased a ticket. Remaining tickets: 3
+2024-12-11 23:03:24 INFO  Vendor - Vendor added a ticket. Checking availability...
+2024-12-11 23:03:24 INFO  Customer - Customer purchased a ticket. Remaining tickets: 0
+2024-12-11 23:03:25 INFO  TicketSystemCLI - Current ticket availability: 1
+2024-12-11 23:03:26 INFO  TicketSystemCLI - Current ticket availability: 1
+2024-12-11 23:03:27 INFO  TicketSystemCLI - Current ticket availability: 1
+2024-12-11 23:03:28 INFO  TicketSystemCLI - Current ticket availability: 1
+2024-12-11 23:03:29 INFO  TicketSystemCLI - Current ticket availability: 1

@@ -13,14 +13,19 @@ public class Vendor implements Runnable {
         this.ticketReleaseRate = ticketReleaseRate;
     }
 
+    // The run method executed by the vendor thread
     @Override
     public void run() {
+        // Continuously add tickets until the thread is interrupted
         while (!Thread.currentThread().isInterrupted()) {
             try {
-                ticketPool.addTickets(1); // Add one ticket to the pool
+                // Attempt to add one ticket to the pool
+                ticketPool.addTickets(1);
                 logger.info("Vendor added a ticket. Checking availability...");
-                Thread.sleep(ticketReleaseRate); // Sleep for the specified rate in milliseconds
+                // Sleep for the specified release rate (in milliseconds)
+                Thread.sleep(ticketReleaseRate);
             } catch (InterruptedException e) {
+                // If the thread is interrupted, stop the loop and set the interrupt flag
                 Thread.currentThread().interrupt();
                 logger.warn("Vendor interrupted and stopping ticket addition.");
                 break;

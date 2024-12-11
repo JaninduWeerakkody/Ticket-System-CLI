@@ -4,6 +4,7 @@ import java.util.Vector;
 
 public class TicketPool {
     private final Vector<String> tickets;
+
     private final int maxCapacity;
 
     public TicketPool(int maxCapacity, int initialTickets) {
@@ -16,6 +17,7 @@ public class TicketPool {
         }
     }
 
+    // Method to add tickets to the pool, synchronized to handle concurrency
     public synchronized void addTickets(int count) {
         while (tickets.size() + count > maxCapacity) {
             try {
@@ -28,14 +30,16 @@ public class TicketPool {
             }
         }
 
+        // Add tickets to the pool if there is enough capacity
         for (int i = 0; i < count && tickets.size() < maxCapacity; i++) {
             tickets.add("Ticket");
         }
 
         System.out.println("Tickets added. Total tickets: " + tickets.size());
-        notifyAll();
+        notifyAll(); // Notify any waiting customers that tickets may now be available
     }
 
+    // Method to remove a ticket from the pool, synchronized to handle concurrency
     public synchronized void removeTicket() {
         while (tickets.isEmpty()) {
             try {
@@ -48,11 +52,13 @@ public class TicketPool {
             }
         }
 
-        tickets.removeFirst(); // Remove one ticket from the beginning of the vector
+        // Remove a ticket from the pool (remove from the beginning of the vector)
+        tickets.removeFirst();
         System.out.println("Ticket sold. Tickets remaining: " + tickets.size());
-        notifyAll(); // Notify vendors if space is now available in the pool
+        notifyAll(); // Notify vendors that there is now space to add tickets
     }
 
+    // Method to get the current number of tickets in the pool
     public synchronized int getTicketCount() {
         return tickets.size();
     }
